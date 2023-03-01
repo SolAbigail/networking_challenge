@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="Application/src/main/res/drawable/booked_circle.xml" value="0.1555" />
+        <entry key="Application/src/main/res/drawable/copyright-48px.xml" value="0.225" />
+        <entry key="Application/src/main/res/drawable/ic_character_48.xml" value="0.225" />
+        <entry key="Application/src/main/res/drawable/ic_copyright_48.xml" value="0.225" />
+        <entry key="Application/src/main/res/drawable/ic_movie_48.xml" value="0.225" />
+        <entry key="Application/src/main/res/drawable/ic_pin_drop_48.xml" value="0.225" />
+        <entry key="Application/src/main/res/layout/fragment_character.xml" value="0.22762148337595908" />
+        <entry key="Application/src/main/res/layout/fragment_episode.xml" value="0.39166666666666666" />
+        <entry key="Application/src/main/res/layout/fragment_location.xml" value="0.36203703703703705" />
+        <entry key="Application/src/main/res/layout/fragment_movie.xml" value="0.36203703703703705" />
+        <entry key="Application/src/main/res/layout/item_character.xml" value="0.21140142517814728" />
+        <entry key="Application/src/main/res/layout/item_episode.xml" value="0.39166666666666666" />
+        <entry key="Application/src/main/res/layout/item_location.xml" value="0.49444444444444446" />
+        <entry key="Application/src/main/res/layout/sample_main.xml" value="0.37592592592592594" />
+        <entry key="Application/src/main/res/menu/bottom_menu.xml" value="0.39166666666666666" />
+        <entry key="Application/src/main/res/menu/main.xml" value="0.39166666666666666" />
+        <entry key="Application/src/template/res/drawable/ic_animation.xml" value="0.1035" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

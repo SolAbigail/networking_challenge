@@ -1,0 +1,446 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:20:1-49:12
+INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:20:1-49:12
+INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:20:1-49:12
+INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:20:1-49:12
+MERGED from [androidx.databinding:databinding-adapters:7.0.3] /Users/solabigail/.gradle/caches/transforms-3/e2e5ed5cbc55cec0816283957ff58f98/transformed/databinding-adapters-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-ktx:7.0.3] /Users/solabigail/.gradle/caches/transforms-3/40f654babd1fd76a584420124ef4f938/transformed/jetified-databinding-ktx-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:7.0.3] /Users/solabigail/.gradle/caches/transforms-3/cd00669cefd1ad57a2e47dbbc26f23b5/transformed/databinding-runtime-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/solabigail/.gradle/caches/transforms-3/4c8f929249fa98916c62c646a4887956/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/050352155061a2dae04871555a913351/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/c11fc01938990e71297ce0492d69263e/transformed/navigation-ui-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.5.0] /Users/solabigail/.gradle/caches/transforms-3/1b520390016539fd8c54858c531ab06a/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/solabigail/.gradle/caches/transforms-3/8fdec1b812347053187fb7c3f9a899f3/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/solabigail/.gradle/caches/transforms-3/e9676808df76b0ba7d97c9d877984574/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/solabigail/.gradle/caches/transforms-3/b747306e9b1729b1b6c5be57a7a450e7/transformed/jetified-hilt-android-2.44/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/32834ec6c4c852935ddf1bc9e870fc87/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.15.0] /Users/solabigail/.gradle/caches/transforms-3/385d8f7a0e9d57700a82651f716fdefe/transformed/jetified-glide-4.15.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/solabigail/.gradle/caches/transforms-3/c807d1651742f7f3cc8abcfd7ed2ef33/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/9f73c34fc946eccdfffa656f9e9703c1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/7315cf4c208edb7b241f7126f7e26e8f/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/c5d75c9a9e826c8fecc7445993d7a842/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /Users/solabigail/.gradle/caches/transforms-3/f9faddd0d1d8c4aac5af76585fdbac60/transformed/jetified-fragment-ktx-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/solabigail/.gradle/caches/transforms-3/08e2c748059fa3b24eb8414a5f047b10/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.1] /Users/solabigail/.gradle/caches/transforms-3/8a56e809c73ebd39b2c587c4cb22b8cb/transformed/jetified-activity-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/18b549cad8141a7b50e37b4fbebc9b28/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/c19f9904aba75da0a52a0095d3877e86/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.1] /Users/solabigail/.gradle/caches/transforms-3/6e1dc173426b51f4e30199bd02911f1b/transformed/jetified-activity-ktx-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/62c7ad2f79019d0fea5c4b01feff64d3/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/b3d3c1af82fff70f2c3f7f07cee4a093/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/80f03f77aa7565b80a3ddcd5692fbc0a/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/e4ef6ecb8e8dae629fc7cb9f6dc4c6fb/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/e78111cbccb9b8cba05cf4dcf820189d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/baa72fe0942968c259c365d5b7846c7a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/058102bd9f60b258b23cfebce8d37987/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/39cde93d7ce69aa1fe47a97fca3e00c3/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/b666f0e8764e6a44fe4489247fd8895c/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/1d23cf9f971b489a04fd94ec130f5e69/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/452289dec88a2f3bd27715abc0af04df/transformed/jetified-lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/solabigail/.gradle/caches/transforms-3/6631ed956776a5cc381d389627480660/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.test:rules:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/3b44a69bf18546c04585f6a0a36bbde5/transformed/rules-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/solabigail/.gradle/caches/transforms-3/72d33dd0656a414c4e6a596d9c2aba26/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3078e6e244c7c6397a033112788a1b0c/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/solabigail/.gradle/caches/transforms-3/c1e386ec3d8ab590ac7c27e606310c76/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/9fdb41081b95814117d2b2e09a30968d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/60061735c0852836e8730b181cd43c48/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/470b18ae5ca219dee5a60ba965761d5a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c50962264a0bb55a2699542648ff977d/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/21560f6f3d62156f778789985a58dca7/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/baf07086278d0b2963f59a0d7cbff86c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/486fa57ce9b0044d3296b41d8f7d804e/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/a6c148355bb852b39f9db62c15f0fd7e/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/751751f61d4742e20fcb9eefc98a8d22/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/solabigail/.gradle/caches/transforms-3/44556c4e452a0337376c864e20002f47/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/a32a93a9eb037f8b7caa79fe5414f6f4/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/b47052cb3c3017b34887a402a6cc9a31/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/solabigail/.gradle/caches/transforms-3/b6988b59a7a73413023c5627f77d34bf/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.services:storage:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/773d1a5ae95c4677be1ce294dc5b3fec/transformed/jetified-storage-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/317da443c17ac3ba277b7a2849c06fd8/transformed/monitor-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/d798c5c5b51f3cbcee7a2cff2db3e622/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/solabigail/.gradle/caches/transforms-3/e9bb9539824190c408772882e34f073b/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/solabigail/.gradle/caches/transforms-3/ebf92cba31bc1a7b336793fc5554d7f0/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/177bdda2e064d766337f055797e14fd3/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/90b2b2d93a4d56525e83ecad1a1b2952/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/3f7593bac6d2aac2a4d3c5895eae537e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/solabigail/.gradle/caches/transforms-3/7a05032ad81e5d6ca56635b50822eaf0/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/9c36879ff1875c85dfa7c9c955bf015b/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.0] /Users/solabigail/.gradle/caches/transforms-3/de48700b3110680479d0248bd3020e5e/transformed/jetified-gifdecoder-4.15.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/solabigail/.gradle/caches/transforms-3/dcc00ac59f02ed3924d4ef2d07983741/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/1e237ab8bd85ec5e0a020d7e89d38c46/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/edc1a7ad8410ed8e2278bfde3645aef1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/solabigail/.gradle/caches/transforms-3/74097e6dfe41b169e8218d5b081264cf/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/solabigail/.gradle/caches/transforms-3/2e6cc7acc2d19b06ebfcb446c65ceeea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/2eb806f678779ca903eabbdbfa4a6a04/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/f82b06f3056d34947625304607995e73/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/25db0328443cc7b1a26f4777e07caa4a/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/741381cb73271078feab8b69ec8792a0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/solabigail/.gradle/caches/transforms-3/fe55212ddad9e8c51ede86bad1c22d32/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/solabigail/.gradle/caches/transforms-3/0cfc8f59b7c0398639f15a67c09ad902/transformed/jetified-dagger-lint-aar-2.44/AndroidManifest.xml:16:1-19:12
+INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:20:1-49:12
+INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:20:1-49:12
+INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:20:1-49:12
+	package
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:22:5-49
+		INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:24:5-30
+		INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:21:5-63
+	android:versionCode
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:23:5-28
+		INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:27:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:28:22-76
+application
+ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:30:5-48:19
+MERGED from [com.google.android.material:material:1.5.0] /Users/solabigail/.gradle/caches/transforms-3/1b520390016539fd8c54858c531ab06a/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /Users/solabigail/.gradle/caches/transforms-3/1b520390016539fd8c54858c531ab06a/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/solabigail/.gradle/caches/transforms-3/8fdec1b812347053187fb7c3f9a899f3/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/solabigail/.gradle/caches/transforms-3/8fdec1b812347053187fb7c3f9a899f3/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.0] /Users/solabigail/.gradle/caches/transforms-3/385d8f7a0e9d57700a82651f716fdefe/transformed/jetified-glide-4.15.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.0] /Users/solabigail/.gradle/caches/transforms-3/385d8f7a0e9d57700a82651f716fdefe/transformed/jetified-glide-4.15.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/solabigail/.gradle/caches/transforms-3/c807d1651742f7f3cc8abcfd7ed2ef33/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/solabigail/.gradle/caches/transforms-3/c807d1651742f7f3cc8abcfd7ed2ef33/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:30:5-20
+MERGED from [androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:30:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.0] /Users/solabigail/.gradle/caches/transforms-3/de48700b3110680479d0248bd3020e5e/transformed/jetified-gifdecoder-4.15.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.0] /Users/solabigail/.gradle/caches/transforms-3/de48700b3110680479d0248bd3020e5e/transformed/jetified-gifdecoder-4.15.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/1e237ab8bd85ec5e0a020d7e89d38c46/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/1e237ab8bd85ec5e0a020d7e89d38c46/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/solabigail/.gradle/caches/transforms-3/2e6cc7acc2d19b06ebfcb446c65ceeea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/solabigail/.gradle/caches/transforms-3/2e6cc7acc2d19b06ebfcb446c65ceeea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:33:9-45
+	android:allowBackup
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:35:9-35
+	android:theme
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:34:9-53
+	android:networkSecurityConfig
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:36:9-69
+	android:name
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:31:9-39
+activity#com.example.android.networkconnect.presenter.MainActivity
+ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:37:9-47:20
+	android:label
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:39:13-45
+	android:exported
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:41:13-36
+	android:uiOptions
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:40:13-57
+	android:name
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:38:13-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:45:27-74
+uses-sdk
+INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.0.3] /Users/solabigail/.gradle/caches/transforms-3/e2e5ed5cbc55cec0816283957ff58f98/transformed/databinding-adapters-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.3] /Users/solabigail/.gradle/caches/transforms-3/e2e5ed5cbc55cec0816283957ff58f98/transformed/databinding-adapters-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.3] /Users/solabigail/.gradle/caches/transforms-3/40f654babd1fd76a584420124ef4f938/transformed/jetified-databinding-ktx-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.3] /Users/solabigail/.gradle/caches/transforms-3/40f654babd1fd76a584420124ef4f938/transformed/jetified-databinding-ktx-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.3] /Users/solabigail/.gradle/caches/transforms-3/cd00669cefd1ad57a2e47dbbc26f23b5/transformed/databinding-runtime-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.3] /Users/solabigail/.gradle/caches/transforms-3/cd00669cefd1ad57a2e47dbbc26f23b5/transformed/databinding-runtime-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/solabigail/.gradle/caches/transforms-3/4c8f929249fa98916c62c646a4887956/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/solabigail/.gradle/caches/transforms-3/4c8f929249fa98916c62c646a4887956/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/050352155061a2dae04871555a913351/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/050352155061a2dae04871555a913351/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/c11fc01938990e71297ce0492d69263e/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/c11fc01938990e71297ce0492d69263e/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] /Users/solabigail/.gradle/caches/transforms-3/1b520390016539fd8c54858c531ab06a/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /Users/solabigail/.gradle/caches/transforms-3/1b520390016539fd8c54858c531ab06a/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/solabigail/.gradle/caches/transforms-3/8fdec1b812347053187fb7c3f9a899f3/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/solabigail/.gradle/caches/transforms-3/8fdec1b812347053187fb7c3f9a899f3/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/solabigail/.gradle/caches/transforms-3/e9676808df76b0ba7d97c9d877984574/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/solabigail/.gradle/caches/transforms-3/e9676808df76b0ba7d97c9d877984574/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/solabigail/.gradle/caches/transforms-3/b747306e9b1729b1b6c5be57a7a450e7/transformed/jetified-hilt-android-2.44/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/solabigail/.gradle/caches/transforms-3/b747306e9b1729b1b6c5be57a7a450e7/transformed/jetified-hilt-android-2.44/AndroidManifest.xml:18:3-42
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/32834ec6c4c852935ddf1bc9e870fc87/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/32834ec6c4c852935ddf1bc9e870fc87/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.15.0] /Users/solabigail/.gradle/caches/transforms-3/385d8f7a0e9d57700a82651f716fdefe/transformed/jetified-glide-4.15.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.0] /Users/solabigail/.gradle/caches/transforms-3/385d8f7a0e9d57700a82651f716fdefe/transformed/jetified-glide-4.15.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/solabigail/.gradle/caches/transforms-3/c807d1651742f7f3cc8abcfd7ed2ef33/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/solabigail/.gradle/caches/transforms-3/c807d1651742f7f3cc8abcfd7ed2ef33/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/9f73c34fc946eccdfffa656f9e9703c1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/9f73c34fc946eccdfffa656f9e9703c1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/7315cf4c208edb7b241f7126f7e26e8f/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/7315cf4c208edb7b241f7126f7e26e8f/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/c5d75c9a9e826c8fecc7445993d7a842/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/c5d75c9a9e826c8fecc7445993d7a842/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /Users/solabigail/.gradle/caches/transforms-3/f9faddd0d1d8c4aac5af76585fdbac60/transformed/jetified-fragment-ktx-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /Users/solabigail/.gradle/caches/transforms-3/f9faddd0d1d8c4aac5af76585fdbac60/transformed/jetified-fragment-ktx-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/solabigail/.gradle/caches/transforms-3/08e2c748059fa3b24eb8414a5f047b10/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/solabigail/.gradle/caches/transforms-3/08e2c748059fa3b24eb8414a5f047b10/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.1] /Users/solabigail/.gradle/caches/transforms-3/8a56e809c73ebd39b2c587c4cb22b8cb/transformed/jetified-activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] /Users/solabigail/.gradle/caches/transforms-3/8a56e809c73ebd39b2c587c4cb22b8cb/transformed/jetified-activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/18b549cad8141a7b50e37b4fbebc9b28/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/18b549cad8141a7b50e37b4fbebc9b28/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/c19f9904aba75da0a52a0095d3877e86/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/c19f9904aba75da0a52a0095d3877e86/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.1] /Users/solabigail/.gradle/caches/transforms-3/6e1dc173426b51f4e30199bd02911f1b/transformed/jetified-activity-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] /Users/solabigail/.gradle/caches/transforms-3/6e1dc173426b51f4e30199bd02911f1b/transformed/jetified-activity-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/62c7ad2f79019d0fea5c4b01feff64d3/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/62c7ad2f79019d0fea5c4b01feff64d3/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/b3d3c1af82fff70f2c3f7f07cee4a093/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/solabigail/.gradle/caches/transforms-3/b3d3c1af82fff70f2c3f7f07cee4a093/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/80f03f77aa7565b80a3ddcd5692fbc0a/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/80f03f77aa7565b80a3ddcd5692fbc0a/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/e4ef6ecb8e8dae629fc7cb9f6dc4c6fb/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/e4ef6ecb8e8dae629fc7cb9f6dc4c6fb/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/e78111cbccb9b8cba05cf4dcf820189d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/e78111cbccb9b8cba05cf4dcf820189d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/baa72fe0942968c259c365d5b7846c7a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/baa72fe0942968c259c365d5b7846c7a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/058102bd9f60b258b23cfebce8d37987/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/058102bd9f60b258b23cfebce8d37987/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/39cde93d7ce69aa1fe47a97fca3e00c3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/39cde93d7ce69aa1fe47a97fca3e00c3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/b666f0e8764e6a44fe4489247fd8895c/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/b666f0e8764e6a44fe4489247fd8895c/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/1d23cf9f971b489a04fd94ec130f5e69/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/1d23cf9f971b489a04fd94ec130f5e69/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/452289dec88a2f3bd27715abc0af04df/transformed/jetified-lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/452289dec88a2f3bd27715abc0af04df/transformed/jetified-lifecycle-livedata-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/solabigail/.gradle/caches/transforms-3/6631ed956776a5cc381d389627480660/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/solabigail/.gradle/caches/transforms-3/6631ed956776a5cc381d389627480660/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/3b44a69bf18546c04585f6a0a36bbde5/transformed/rules-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/3b44a69bf18546c04585f6a0a36bbde5/transformed/rules-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/solabigail/.gradle/caches/transforms-3/72d33dd0656a414c4e6a596d9c2aba26/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/solabigail/.gradle/caches/transforms-3/72d33dd0656a414c4e6a596d9c2aba26/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3078e6e244c7c6397a033112788a1b0c/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3078e6e244c7c6397a033112788a1b0c/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/solabigail/.gradle/caches/transforms-3/c1e386ec3d8ab590ac7c27e606310c76/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/solabigail/.gradle/caches/transforms-3/c1e386ec3d8ab590ac7c27e606310c76/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/9fdb41081b95814117d2b2e09a30968d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/9fdb41081b95814117d2b2e09a30968d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/60061735c0852836e8730b181cd43c48/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/60061735c0852836e8730b181cd43c48/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/470b18ae5ca219dee5a60ba965761d5a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/470b18ae5ca219dee5a60ba965761d5a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c50962264a0bb55a2699542648ff977d/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c50962264a0bb55a2699542648ff977d/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/21560f6f3d62156f778789985a58dca7/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/21560f6f3d62156f778789985a58dca7/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/baf07086278d0b2963f59a0d7cbff86c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/baf07086278d0b2963f59a0d7cbff86c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/486fa57ce9b0044d3296b41d8f7d804e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/solabigail/.gradle/caches/transforms-3/486fa57ce9b0044d3296b41d8f7d804e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/a6c148355bb852b39f9db62c15f0fd7e/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/a6c148355bb852b39f9db62c15f0fd7e/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/751751f61d4742e20fcb9eefc98a8d22/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/751751f61d4742e20fcb9eefc98a8d22/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.4.1] /Users/solabigail/.gradle/caches/transforms-3/44556c4e452a0337376c864e20002f47/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/solabigail/.gradle/caches/transforms-3/44556c4e452a0337376c864e20002f47/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/a32a93a9eb037f8b7caa79fe5414f6f4/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/a32a93a9eb037f8b7caa79fe5414f6f4/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/b47052cb3c3017b34887a402a6cc9a31/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/b47052cb3c3017b34887a402a6cc9a31/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/solabigail/.gradle/caches/transforms-3/b6988b59a7a73413023c5627f77d34bf/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/solabigail/.gradle/caches/transforms-3/b6988b59a7a73413023c5627f77d34bf/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.test.services:storage:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/773d1a5ae95c4677be1ce294dc5b3fec/transformed/jetified-storage-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/773d1a5ae95c4677be1ce294dc5b3fec/transformed/jetified-storage-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/317da443c17ac3ba277b7a2849c06fd8/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/317da443c17ac3ba277b7a2849c06fd8/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/d798c5c5b51f3cbcee7a2cff2db3e622/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/d798c5c5b51f3cbcee7a2cff2db3e622/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/solabigail/.gradle/caches/transforms-3/e9bb9539824190c408772882e34f073b/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/solabigail/.gradle/caches/transforms-3/e9bb9539824190c408772882e34f073b/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/solabigail/.gradle/caches/transforms-3/ebf92cba31bc1a7b336793fc5554d7f0/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/solabigail/.gradle/caches/transforms-3/ebf92cba31bc1a7b336793fc5554d7f0/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/177bdda2e064d766337f055797e14fd3/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/177bdda2e064d766337f055797e14fd3/transformed/lifecycle-livedata-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/90b2b2d93a4d56525e83ecad1a1b2952/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/90b2b2d93a4d56525e83ecad1a1b2952/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/3f7593bac6d2aac2a4d3c5895eae537e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/3f7593bac6d2aac2a4d3c5895eae537e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/solabigail/.gradle/caches/transforms-3/7a05032ad81e5d6ca56635b50822eaf0/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/solabigail/.gradle/caches/transforms-3/7a05032ad81e5d6ca56635b50822eaf0/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/9c36879ff1875c85dfa7c9c955bf015b/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/solabigail/.gradle/caches/transforms-3/9c36879ff1875c85dfa7c9c955bf015b/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.0] /Users/solabigail/.gradle/caches/transforms-3/de48700b3110680479d0248bd3020e5e/transformed/jetified-gifdecoder-4.15.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.0] /Users/solabigail/.gradle/caches/transforms-3/de48700b3110680479d0248bd3020e5e/transformed/jetified-gifdecoder-4.15.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/solabigail/.gradle/caches/transforms-3/dcc00ac59f02ed3924d4ef2d07983741/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/solabigail/.gradle/caches/transforms-3/dcc00ac59f02ed3924d4ef2d07983741/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/1e237ab8bd85ec5e0a020d7e89d38c46/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/1e237ab8bd85ec5e0a020d7e89d38c46/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/edc1a7ad8410ed8e2278bfde3645aef1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/edc1a7ad8410ed8e2278bfde3645aef1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/solabigail/.gradle/caches/transforms-3/74097e6dfe41b169e8218d5b081264cf/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/solabigail/.gradle/caches/transforms-3/74097e6dfe41b169e8218d5b081264cf/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/solabigail/.gradle/caches/transforms-3/2e6cc7acc2d19b06ebfcb446c65ceeea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/solabigail/.gradle/caches/transforms-3/2e6cc7acc2d19b06ebfcb446c65ceeea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/2eb806f678779ca903eabbdbfa4a6a04/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/2eb806f678779ca903eabbdbfa4a6a04/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/f82b06f3056d34947625304607995e73/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/f82b06f3056d34947625304607995e73/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/25db0328443cc7b1a26f4777e07caa4a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/25db0328443cc7b1a26f4777e07caa4a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/741381cb73271078feab8b69ec8792a0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/741381cb73271078feab8b69ec8792a0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/solabigail/.gradle/caches/transforms-3/fe55212ddad9e8c51ede86bad1c22d32/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/solabigail/.gradle/caches/transforms-3/fe55212ddad9e8c51ede86bad1c22d32/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/solabigail/.gradle/caches/transforms-3/0cfc8f59b7c0398639f15a67c09ad902/transformed/jetified-dagger-lint-aar-2.44/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/solabigail/.gradle/caches/transforms-3/0cfc8f59b7c0398639f15a67c09ad902/transformed/jetified-dagger-lint-aar-2.44/AndroidManifest.xml:18:3-42
+INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:24:22-69
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:28:13-99
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:31:13-33:29
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:44:13-103
+queries
+ADDED from [androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:24:5-28:15
+package#androidx.test.orchestrator
+ADDED from [androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:25:9-62
+	android:name
+		ADDED from [androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:25:18-59
+package#androidx.test.services
+ADDED from [androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:26:9-58
+	android:name
+		ADDED from [androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:26:18-55
+package#com.google.android.apps.common.testing.services
+ADDED from [androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:27:9-83
+	android:name
+		ADDED from [androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:27:18-80
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/1e237ab8bd85ec5e0a020d7e89d38c46/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/1e237ab8bd85ec5e0a020d7e89d38c46/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.android.networkconnect.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.android.networkconnect.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

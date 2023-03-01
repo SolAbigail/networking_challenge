@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/sample_main.xml",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/sample_main.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_location.xml",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/item_location.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_episode.xml",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/fragment_episode.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_location.xml",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/fragment_location.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_character.xml",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/fragment_character.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_character.xml",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/item_character.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_episode.xml",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/item_episode.xml"
+    }
+]

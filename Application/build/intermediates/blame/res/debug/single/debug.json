@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/layout_fragment_episode.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/fragment_episode.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/drawable_ic_animation.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/template/res/drawable/ic_animation.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/layout_fragment_character.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/fragment_character.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/menu_bottom_menu.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/layout_item_character.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/item_character.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/drawable_image_1.jpeg.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/drawable/image_1.jpeg"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/drawable_ic_character_48.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/drawable/ic_character_48.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/drawable_ic_location_48.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/drawable/ic_location_48.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/color_color_bottom_menu.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/color/color_bottom_menu.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/layout_item_episode.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/item_episode.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/drawable_booked_circle.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/drawable/booked_circle.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/layout_sample_main.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/sample_main.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/drawable-hdpi_tile.9.png.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/layout_fragment_location.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/fragment_location.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/layout_item_location.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/layout/item_location.xml"
+    },
+    {
+        "merged": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/build/intermediates/res/merged/debug/drawable_ic_movie_48.xml.flat",
+        "source": "/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/res/drawable/ic_movie_48.xml"
+    }
+]

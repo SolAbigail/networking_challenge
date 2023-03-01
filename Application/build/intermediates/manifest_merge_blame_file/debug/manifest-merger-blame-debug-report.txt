@@ -1,0 +1,186 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2013 The Android Open Source Project
+4
+5 Licensed under the Apache License, Version 2.0 (the "License");
+6 you may not use this file except in compliance with the License.
+7 You may obtain a copy of the License at
+8
+9     http://www.apache.org/licenses/LICENSE-2.0
+10
+11 Unless required by applicable law or agreed to in writing, software
+12 distributed under the License is distributed on an "AS IS" BASIS,
+13 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14 See the License for the specific language governing permissions and
+15 limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.networkconnect"
+19    android:versionCode="7"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="24"
+23-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="33" />
+24-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml
+25
+26    <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
+27    <uses-permission android:name="android.permission.INTERNET" />
+27-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:27:5-67
+27-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:27:22-64
+28    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+28-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:28:5-79
+28-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:28:22-76
+29    <uses-permission android:name="android.permission.REORDER_TASKS" />
+29-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:24:5-72
+29-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:24:22-69
+30
+31    <queries>
+31-->[androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:24:5-28:15
+32        <package android:name="androidx.test.orchestrator" />
+32-->[androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:25:9-62
+32-->[androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:25:18-59
+33        <package android:name="androidx.test.services" />
+33-->[androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:26:9-58
+33-->[androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:26:18-55
+34        <package android:name="com.google.android.apps.common.testing.services" />
+34-->[androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:27:9-83
+34-->[androidx.test:runner:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/cd652a5d61ac2fc522c80f064e83dc98/transformed/runner-1.4.0/AndroidManifest.xml:27:18-80
+35    </queries>
+36
+37    <permission
+37-->[androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+38        android:name="com.example.android.networkconnect.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+38-->[androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+39        android:protectionLevel="signature" />
+39-->[androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+40
+41    <uses-permission android:name="com.example.android.networkconnect.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+41-->[androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+41-->[androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+42
+43    <application
+43-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:30:5-48:19
+44        android:name="com.example.android.networkconnect.AppApplication"
+44-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:31:9-39
+45        android:allowBackup="true"
+45-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:35:9-35
+46        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+46-->[androidx.core:core:1.9.0] /Users/solabigail/.gradle/caches/transforms-3/419bee8c48ef94f61a2254e6fd27be5d/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+47        android:debuggable="true"
+48        android:extractNativeLibs="false"
+49        android:icon="@drawable/ic_launcher"
+49-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:33:9-45
+50        android:label="@string/app_name"
+50-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:32:9-41
+51        android:networkSecurityConfig="@xml/network_security_config"
+51-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:36:9-69
+52        android:testOnly="true"
+53        android:theme="@style/Theme.AppCompat.Light" >
+53-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:34:9-53
+54        <activity
+54-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:37:9-47:20
+55            android:name="com.example.android.networkconnect.presenter.MainActivity"
+55-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:38:13-85
+56            android:exported="true"
+56-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:41:13-36
+57            android:label="@string/app_name"
+57-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:39:13-45
+58            android:uiOptions="splitActionBarWhenNarrow" >
+58-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:40:13-57
+59            <intent-filter>
+59-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:43:13-46:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:44:17-69
+60-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:44:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:45:17-77
+62-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:45:27-74
+63            </intent-filter>
+64        </activity>
+65
+66        <uses-library
+66-->[androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+67            android:name="androidx.window.extensions"
+67-->[androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+68            android:required="false" />
+68-->[androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+69        <uses-library
+69-->[androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+70            android:name="androidx.window.sidecar"
+70-->[androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+71            android:required="false" />
+71-->[androidx.window:window:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/3d5c71895f15a7e145cd9868f67de471/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+72
+73        <activity
+73-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:27:9-34:20
+74            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+74-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:28:13-99
+75            android:exported="true"
+75-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:29:13-36
+76            android:theme="@android:style/Theme" >
+76-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:30:13-49
+77            <intent-filter>
+77-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:31:13-33:29
+78                <action android:name="android.intent.action.MAIN" />
+78-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:44:17-69
+78-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:44:25-66
+79            </intent-filter>
+80        </activity>
+81        <activity
+81-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:35:9-42:20
+82            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+82-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:36:13-95
+83            android:exported="true"
+83-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:37:13-36
+84            android:theme="@android:style/Theme" >
+84-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:38:13-49
+85            <intent-filter>
+85-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:31:13-33:29
+86                <action android:name="android.intent.action.MAIN" />
+86-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:44:17-69
+86-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:44:25-66
+87            </intent-filter>
+88        </activity>
+89        <activity
+89-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:43:9-50:20
+90            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+90-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:44:13-103
+91            android:exported="true"
+91-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:45:13-36
+92            android:theme="@android:style/Theme.Dialog" >
+92-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:46:13-56
+93            <intent-filter>
+93-->[androidx.test:core:1.4.0] /Users/solabigail/.gradle/caches/transforms-3/1ca9182df935c0105a2de9e0009dd79f/transformed/jetified-core-1.4.0/AndroidManifest.xml:31:13-33:29
+94                <action android:name="android.intent.action.MAIN" />
+94-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:44:17-69
+94-->/Users/solabigail/Documents/devsavant/Android_networking_challenge/Application/src/main/AndroidManifest.xml:44:25-66
+95            </intent-filter>
+96        </activity>
+97
+98        <provider
+98-->[androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+99            android:name="androidx.startup.InitializationProvider"
+99-->[androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+100            android:authorities="com.example.android.networkconnect.androidx-startup"
+100-->[androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+101            android:exported="false" >
+101-->[androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+102            <meta-data
+102-->[androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+103                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+103-->[androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+104                android:value="androidx.startup" />
+104-->[androidx.emoji2:emoji2:1.0.0] /Users/solabigail/.gradle/caches/transforms-3/c1c64898eab8c35e6d8aff095b4025f3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+105            <meta-data
+105-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+106                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+106-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+107                android:value="androidx.startup" />
+107-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/solabigail/.gradle/caches/transforms-3/d6a74a05d4b9111fe2766a01205181cb/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+108        </provider>
+109    </application>
+110
+111</manifest>

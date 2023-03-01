@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/characters_graph">
+
+    <fragment
+        android:id="@+id/characters_graph"
+        android:name="com.example.android.networkconnect.presenter.fragment.CharacterFragment"
+        android:label="CharacterFragment"
+        tools:layout="@layout/fragment_character"/>
+    <fragment
+        android:id="@+id/locations_graph"
+        android:name="com.example.android.networkconnect.presenter.fragment.LocationFragment"
+        android:label="LocationFragment"
+        tools:layout="@layout/fragment_location"/>
+    <fragment
+        android:id="@+id/movies_graph"
+        android:name="com.example.android.networkconnect.presenter.fragment.EpisodeFragment"
+        android:label="MovieFragment"
+        tools:layout="@layout/fragment_episode"/>
+</navigation>
